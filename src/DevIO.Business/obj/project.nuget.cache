@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yemVJuEqrEPFuUOrgELxzr8v3lRRonN4PWabb8MruUXCZzwnij6uH4nV131imMQaYnl3dr6vnnr+mmMCS+LMMg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\LGGRAM\\Downloads\\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\\MinhaAppMvcCompleta 5.0\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LGGRAM\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

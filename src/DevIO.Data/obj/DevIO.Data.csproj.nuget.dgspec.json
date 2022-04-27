@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\LGGRAM\\Downloads\\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\\MinhaAppMvcCompleta 5.0\\src\\DevIO.Data\\DevIO.Data.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\LGGRAM\\Downloads\\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\\MinhaAppMvcCompleta 5.0\\src\\DevIO.Business\\DevIO.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\LGGRAM\\Downloads\\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\\MinhaAppMvcCompleta 5.0\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectName": "DevIO.Business",
+        "projectPath": "c:\\Users\\LGGRAM\\Downloads\\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\\MinhaAppMvcCompleta 5.0\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "packagesPath": "C:\\Users\\LGGRAM\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\LGGRAM\\Downloads\\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\\MinhaAppMvcCompleta 5.0\\src\\DevIO.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LGGRAM\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\LGGRAM\\Downloads\\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\\MinhaAppMvcCompleta 5.0\\src\\DevIO.Data\\DevIO.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\LGGRAM\\Downloads\\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\\MinhaAppMvcCompleta 5.0\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "projectName": "DevIO.Data",
+        "projectPath": "c:\\Users\\LGGRAM\\Downloads\\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\\MinhaAppMvcCompleta 5.0\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "packagesPath": "C:\\Users\\LGGRAM\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\LGGRAM\\Downloads\\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\\MinhaAppMvcCompleta 5.0\\src\\DevIO.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LGGRAM\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\Users\\LGGRAM\\Downloads\\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\\MinhaAppMvcCompleta 5.0\\src\\DevIO.Business\\DevIO.Business.csproj": {
+                "projectPath": "c:\\Users\\LGGRAM\\Downloads\\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\\MinhaAppMvcCompleta 5.0\\src\\DevIO.Business\\DevIO.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
